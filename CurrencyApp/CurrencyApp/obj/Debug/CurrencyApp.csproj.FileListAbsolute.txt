@@ -1,0 +1,7 @@
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.exe.config
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.exe
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\bin\Debug\CurrencyApp.pdb
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csprojAssemblyReference.cache
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.csproj.CoreCompileInputs.cache
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.exe
+C:\MyProjects\Lab1\CurrencyApp\CurrencyApp\obj\Debug\CurrencyApp.pdb
